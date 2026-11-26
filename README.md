@@ -1,6 +1,6 @@
-# Telegram Crypto Trading Bot (Experimental)
+# Telegram Crypto Trading Prototype
 
-An unfinished Telegram bot prototype for exploring crypto price displays, wallet flows, asset views, and trading controls.
+An unfinished Telegram-based prototype for exploring crypto price displays, wallet flows, portfolio views, and trading controls.
 
 > **Status: experimental and incomplete.**
 >
